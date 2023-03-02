@@ -47,7 +47,6 @@
   background: transparent;
   padding: 0px 64px;
   z-index: 8888;
-
   transition: 0.4s;
   .top-link {
     color: gray;
@@ -147,7 +146,6 @@
     display: inline-block;
   }
 }
-
 
 // about
 @include section-kit(prologue, end, 1, right);
